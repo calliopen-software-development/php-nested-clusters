@@ -1,0 +1,20 @@
+{
+    "name": "calliopen/php-nested-clusters",
+    "description": "Two traits that help with nested clusters display and slugs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Calliopen\\PhpNestedClusters\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alysson",
+            "email": "alyssuuuuu@outlook.com"
+        }
+    ],
+    "require": {
+        "filament/filament": "^4.0"
+    }
+}
