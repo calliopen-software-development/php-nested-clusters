@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "filament/filament": "^4.0"
+        "filament/filament": "^3.0"
     }
 }
